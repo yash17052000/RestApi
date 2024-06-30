@@ -1,0 +1,38 @@
+[
+    {
+        "_id": "66805c9fbea1dfce0da9d898",
+        "eid": 1,
+        "name": "iPhone 12",
+        "Price": 154,
+        "feature": true,
+        "company": "apple",
+        "__v": 0
+    },
+    {
+        "_id": "66805c9fbea1dfce0da9d899",
+        "eid": 2,
+        "name": "Samsung Galaxy S21",
+        "Price": 154,
+        "feature": true,
+        "company": "samsung",
+        "__v": 0
+    },
+    {
+        "_id": "66805cf78474944bc4383c5e",
+        "eid": 3,
+        "name": "iPhone 13",
+        "Price": 1544,
+        "feature": true,
+        "company": "apple",
+        "__v": 0
+    },
+    {
+        "_id": "66805e431d128e2f0d12c226",
+        "eid": 4,
+        "name": "Dell XPS 13",
+        "Price": 1544,
+        "feature": true,
+        "company": "dell",
+        "__v": 0
+    }
+]
